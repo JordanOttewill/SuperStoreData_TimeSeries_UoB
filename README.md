@@ -6,3 +6,5 @@ Libraries used:
 - matplotlib.pyplot
 - seaborn
 - xgboost
+
+In the repository you will find the cody used, the analysis performed within a pdf report out and the source dataset. The visualisations in the report are a combination of python code and Tablaeu graphics.
